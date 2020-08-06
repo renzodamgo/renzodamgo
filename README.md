@@ -1,6 +1,6 @@
 ### Hola, Soy Renzo Damian  👋
 
-## Soy un estudiante de Ciencias de la Computacióm
+## Soy un estudiante de Ciencias de la Computación
 - 🔭 Actualmente estoy en el Tercer año de mi Carrera.
 - 🌱 Estudiando Estadísitica y Machine Learning.
 - 🥅 2020 Goals: Hacer un intercambio internacional.
@@ -20,7 +20,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Últimos articulos
 <!-- BLOG-POST-LIST:START -->
 - [Test de probabilidad de Miller-Rabin: Generar Números Primos en Python](https://medium.com/@daren10/generar-primos-en-python-fe2bfa874960?source=friends_link&sk=0093db7e969a5c7dc1ad7b5933175a50)
 
