@@ -2,8 +2,8 @@
 
 ## Soy un estudiante de Ciencias de la Computación
 - 🔭 Actualmente estoy en el Tercer año de mi Carrera.
-- 🌱 Estudiando Estadísitica y Machine Learning.
-- 🥅 2020 Goals: Hacer un intercambio internacional.
+- 🌱 Estudiando UI and UX.
+- 🥅 2021 Goals: Hacer un intercambio internacional.
 - ⚡ Se tocar la guitarra y hago música como hobby.
 
 
