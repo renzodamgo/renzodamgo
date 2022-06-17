@@ -1,9 +1,10 @@
 ### Hola, Soy Renzo Damian  👋
 
 ## Soy un estudiante de Ciencias de la Computación
-- 🔭 Actualmente estoy en el Tercer año de mi Carrera.
-- 🌱 Estudiando UI and UX.
-- 🥅 2021 Goals: Hacer un intercambio internacional.
+- 🔭 Actualmente estoy en el Cuarto año de mi Carrera.
+- 🌱 Estudiando React y TS.
+- ~~🥅 2021 Goals: Hacer un intercambio internacional.~~ 😷
+- 2022 Goals: Hacer un intercambio internacional.
 - ⚡ Se tocar la guitarra y hago música como hobby.
 
 ### Protfolio 
