@@ -4,7 +4,8 @@
 - 🔭 Actualmente estoy en el Último año de mi Carrera.
 - 🌱 Estudiando React y TS.
 - ~~🥅 2021 Goals: Hacer un intercambio internacional.~~ 😷
-- 2022 Goals: Hacer un intercambio internacional.
+- ~~2022 Goals: Hacer un intercambio internacional.~~🕒
+- 2024 Goals: Hacer un intercambio internacional. 🙏
 
 ### Protfolio 
 https://www.renzodamian.com/
