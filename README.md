@@ -24,5 +24,3 @@ https://www.renzodamian.com/
 
 ---
 
-<img align="left" alt="renzodamgo's Github Stats" src="[https://github-readme-stats.vercel.app/api?username=renzodamgo&show_icons=true&hide_border=true](https://medium.com/@daren10/generar-primos-en-python-fe2bfa874960)" />
-
