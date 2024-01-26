@@ -18,11 +18,11 @@ https://www.renzodamian.com/
 
 ### 📕 Últimos articulos
 <!-- BLOG-POST-LIST:START -->
-- [Test de probabilidad de Miller-Rabin: Generar Números Primos en Python](https://renzodamgo.github.io/posts/primos/primos/)
+- [Test de probabilidad de Miller-Rabin: Generar Números Primos en Python](https://medium.com/@daren10/generar-primos-en-python-fe2bfa874960)
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="renzodamgo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renzodamgo&show_icons=true&hide_border=true" />
+<img align="left" alt="renzodamgo's Github Stats" src="[https://github-readme-stats.vercel.app/api?username=renzodamgo&show_icons=true&hide_border=true](https://medium.com/@daren10/generar-primos-en-python-fe2bfa874960)" />
 
