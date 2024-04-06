@@ -5,7 +5,7 @@
 - 🌱 Estudiando React y TS.
 - ~~🥅 2021 Goals: Hacer un intercambio internacional.~~ 😷
 - ~~2022 Goals: Hacer un intercambio internacional.~~ 🕒
-- 2024 Goals: Hacer un intercambio internacional. 🙏 ████████░░░░░░
+- 2024 Goals: Hacer una Masters internacional. 🙏 ████████░░░░░░
 
 ### Protfolio 
 https://www.renzodamian.com/
