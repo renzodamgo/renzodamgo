@@ -1,26 +1,19 @@
-### Hola, Soy Renzo Damian  👋
+### Hi, I'm Renzo Damian 👋
 
-## Soy licenciado de de Ciencias de la Computación
-- ~~🔭 Actualmente estoy en el Último año de mi Carrera.~~ Terminé mi carrera 🎉🎉👨‍🎓👨‍🎓
-- 🌱 Estudiando React y TS.
-- ~~🥅 2021 Goals: Hacer un intercambio internacional.~~ 😷
-- ~~2022 Goals: Hacer un intercambio internacional.~~ 🕒
-- 2024 Goals: Hacer una Masters internacional. 🙏 ████████░░░░░░
+## I am a Computer Science graduate
+- ~~🥅 2021 Goals: To do an international exchange.~~ 😷
+- ~~2022 Goals: To do an international exchange.~~ 🕒
+- ~~🔭 Currently in the final year of my degree.~~ Finished my degree 🎉🎉👨‍🎓👨‍🎓
+- ~~2024 Goals: To do an international Master's.~~  🙏 ████████░░░░░░
+- 🌱 Doing a Masters on Advanced Computer Science: Speech Technology & Robotics
 
-### Protfolio 
+### Portfolio
 https://www.renzodamian.com/
-
-
-<br />
-
-
 ---
 
-### 📕 Últimos articulos
+### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Test de probabilidad de Miller-Rabin: Generar Números Primos en Python](https://medium.com/@daren10/generar-primos-en-python-fe2bfa874960)
-
+- [Miller-Rabin Primality Test: Generating Prime Numbers in Python](https://medium.com/@daren10/generar-primos-en-python-fe2bfa874960)
 <!-- BLOG-POST-LIST:END -->
-
 ---
 
