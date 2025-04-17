@@ -1,6 +1,6 @@
 ### Hi, I'm Renzo Damian 👋
 
-## I am a Computer Science graduate
+## I am a Computer Scientist
 - ~~🥅 2021 Goals: To do an international exchange.~~ 😷
 - ~~2022 Goals: To do an international exchange.~~ 🕒
 - ~~🔭 Currently in the final year of my degree.~~ Finished my degree 🎉🎉👨‍🎓👨‍🎓
